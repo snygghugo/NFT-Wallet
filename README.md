@@ -17,7 +17,7 @@ Project is created with:
 
 ## Setup
 
-To run this project, simply etract the NFT-Wallet to your directory of choice.
+To run this project, simply extract the NFT-Wallet to your directory of choice.
 
 ## Usage
 
